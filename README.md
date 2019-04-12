@@ -45,6 +45,7 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
+* [Full-Stack Devops Jobs](https://fullstackjob.com/jobs/devops--jobs)
 
 ## Growth Hacking
 
@@ -78,6 +79,7 @@ A curated list of awesome niche job boards.
 
 ### Go
 
+* [Full-Stack Golang Developer Jobs](https://fullstackjob.com/jobs/go--developer-jobs)
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
@@ -86,6 +88,7 @@ A curated list of awesome niche job boards.
 
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
+* [Full-Stack Javascript Developer Jobs](https://fullstackjob.com/jobs/javascript--developer-jobs)
 * [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
@@ -100,16 +103,19 @@ A curated list of awesome niche job boards.
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
+* [Full-Stack PHP Developer Jobs](https://fullstackjob.com/jobs/php--developer-jobs)
 * [WPhired](https://www.wphired.com/) - WordPress Jobs
 
 ### Python
 
 * [Python Job Board](https://www.python.org/jobs/)
+* [Full-Stack Python Developer Jobs](https://fullstackjob.com/jobs/python--developer-jobs)
 * [Django Jobs](https://djangojobs.net/jobs/)
 
 ### Ruby
 
 * [RubyNow](https://jobs.rubynow.com/)
+* [Full-Stack Ruby on Rails Developer Jobs](https://fullstackjob.com/jobs/ruby-on-rails--developer-jobs)
 
 ### Rust
 
@@ -125,7 +131,8 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
-* [remote | OK](https://remoteok.io/)
+* [Full-Stack Remote Positions](https://fullstackjob.com/jobs/remote-ok)
+* [remote OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 
@@ -142,6 +149,7 @@ A curated list of awesome niche job boards.
 ### Canada
 
 * [Work in Tech](https://www.workintech.ca/) - Toronto-Waterloo Region Corridor Jobs
+* [Canada / Canadian Full-Stack Developer Jobs](https://fullstackjob.com/jobs/country/canada--developer-jobs)
 
 ### Europe
 
@@ -151,6 +159,7 @@ A curated list of awesome niche job boards.
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
+* [US Full-Stack Developer Jobs](https://fullstackjob.com/jobs/country/United%20States%20of%20America--developer-jobs)
 
 ### Free & Open Source
 
