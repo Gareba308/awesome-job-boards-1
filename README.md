@@ -153,6 +153,7 @@ A curated list of awesome niche job boards.
 
 ### Europe
 
+* [DevITjobs UK](https://devitjobs.uk/) - Transparent job board for UK based Software Developers
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [GermanTechJobs.de](https://germantechjobs.de/) - Dedicated tech job board for Germany
 
