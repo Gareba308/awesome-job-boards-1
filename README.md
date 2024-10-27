@@ -157,6 +157,9 @@ A curated list of awesome niche job boards.
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [GermanTechJobs.de](https://germantechjobs.de/) - Dedicated tech job board for Germany
 
+### Africa
+* [Hired Jobs](https://www.hired.co.ke) - For jobs available in Kenya and other parts of East Africa.
+
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
